@@ -1,7 +1,5 @@
 # MakeSomeNoise
 
-Fun with noise!
-
 ![demo](demo.gif)
 
 ## Install
