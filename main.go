@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	n := opensimplex.New()
+	n := opensimplex.New(0)
 	termbox.Init()
 	termbox.SetOutputMode(termbox.OutputGrayscale)
 	defer termbox.Close()
